@@ -1,4 +1,4 @@
-import 'package:ecommerce/widgets/CustomImageContainer.dart';
+import 'package:ecommerce/widgets/commonWidget/CustomImageContainer.dart';
 import 'package:flutter/material.dart';
 
 class ImageContainerWithLabel extends StatelessWidget {

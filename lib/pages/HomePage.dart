@@ -1,6 +1,5 @@
-import 'package:ecommerce/widgets/CustomImageContainer.dart';
-import 'package:ecommerce/widgets/ImageContainerWithLabel.dart';
-import 'package:ecommerce/widgets/customCard.dart';
+import 'package:ecommerce/widgets/commonWidget/CustomCard.dart';
+import 'package:ecommerce/widgets/commonWidget/ImageContainerWithLabel.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
